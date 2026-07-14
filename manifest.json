@@ -1,6 +1,6 @@
 {
-  "name": "mvrv-btc",
-  "short_name": "me",
+  "name": "mvrv-btc analysis",
+  "short_name": "mvrv/btc",
   "description": "mvrv-btc analysis",
   "start_url": "./",
   "scope": "./",
